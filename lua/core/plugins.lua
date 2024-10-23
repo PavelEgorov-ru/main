@@ -40,6 +40,8 @@ require("lazy").setup({
     { "nvim-treesitter/nvim-treesitter" },
     {'joshdick/onedark.vim'},
     {'cocopon/iceberg.vim'},
+    {'AlessandroYorba/Alduin'},
+    {'gregsexton/Atom'},
     {'neovim/nvim-lspconfig'},
     {'hrsh7th/cmp-nvim-lsp'}, 
     {'hrsh7th/cmp-buffer'}, 

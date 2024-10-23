@@ -1,4 +1,6 @@
 {
+  "Alduin": { "branch": "master", "commit": "6575a0f167fef521c404681b96caebdb2b9cc4cd" },
+  "Atom": { "branch": "master", "commit": "b07c601305d4129b31536b0771984f94c04b7d4b" },
   "bufferline.nvim": { "branch": "main", "commit": "2e3c8cc5a57ddd32f1edd2ffd2ccb10c09421f6c" },
   "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
   "cmp-cmdline": { "branch": "main", "commit": "d250c63aa13ead745e3a40f61fdd3470efde3923" },
