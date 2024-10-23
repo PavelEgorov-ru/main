@@ -38,6 +38,7 @@ require("lazy").setup({
     	}
     },
     { "nvim-treesitter/nvim-treesitter" },
+    {'akinsho/toggleterm.nvim', version = "*", config = true},
     {'joshdick/onedark.vim'},
     {'cocopon/iceberg.vim'},
     {'AlessandroYorba/Alduin'},
